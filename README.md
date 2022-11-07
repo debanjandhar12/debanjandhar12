@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hey, I'm Debanjan!
 
-<!--
-**debanjandhar12/debanjandhar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://drive.google.com/file/d/10P8dDHFuAQqfRBNYNYx9heOZgByG9Slj/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=latex" /></a>
+  <a href="https://www.linkedin.com/in/debanjan-dhar-85714515a/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/DEBANJANDHAR14"><img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const deban : Programmer = {
+    code: ["TypeScript", "Javascript", "Java", "Python"],
+    likes: ["PKMs", "Competative Programming", "Tech", "Anime", "Oh, did i say Programming?"],
+    technologies: ["NodeJS", "React.js", "Vue.js", "SQL"]
+};
+```
