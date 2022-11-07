@@ -15,7 +15,7 @@ for a full-time position in the field of software engineering.
 ```javascript
 const deban : Programmer = {
     code: ["TypeScript", "Javascript", "Java", "Python"],
-    likes: ["PKMs", "Competative Programming", "Tech", "Anime", "Oh, did i say Programming?"],
+    likes: ["PKMs", "Competitive Programming", "Tech", "Anime", "Oh, did i say Programming?"],
     technologies: ["NodeJS", "React.js", "Vue.js", "SQL"]
 };
 ```
